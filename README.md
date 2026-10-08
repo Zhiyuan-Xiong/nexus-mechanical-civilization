@@ -55,6 +55,8 @@ flowchart LR
 
 **过程证据：** [概念结构](media/nexus/concept-line.webp) · [白模空间](media/nexus/clay-isometric.webp) · [角色与渲染](media/nexus/characters-render.webp) · [数字案例](site-source/components/NexusCase.astro)
 
+**指令控制：** 先用完整任务说明组织案例结构与视觉基准，再以精准短指令调整造物规则、比例、模块关系与镜头，通过实际画面与原作对照验收。
+
 [阅读完整的项目工作流](工作流.md) · [我的 AI 设计方法](https://github.com/Zhiyuan-Xiong/xiongzhiyuan-portfolio/blob/main/docs/AI设计工作流.md)
 
 ## 仓库内容
